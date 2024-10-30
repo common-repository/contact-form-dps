@@ -1,0 +1,10 @@
+#contact label { display: block; margin: 10px 0; font-size: 1em;  color:#333; }
+#contact_name, #contact_email, #contact_subject { display: block; margin: 10px 0; border:1px solid #ccc; padding: 5px; font-size: 1em; width: 70%; }
+#contact_message { display: block; margin: 10px 0; border:1px solid #ccc; padding: 5px; font-size: 1em; width: 90%; }
+#contact_send { padding: 5px 10px; width: 8em; border:1px solid #ccc; background: #f8f8f8; color:#333; }
+#contact_send:hover { background: #f2f2f2; } 
+#contact input.error { border-color: #e77776; }
+#contact textarea.error { border-color: #e77776; }
+span.error { color: #e77776; }
+span.hide { display:none; }
+.info { clear:both; font-style: italic; font-size: 1.25em; }
